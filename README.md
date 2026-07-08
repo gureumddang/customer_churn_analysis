@@ -5,13 +5,12 @@
 
 Customer churn analysis - explCustomer churn analysis - exploration
 
-데이터 출처: Codeit Customer Churn (DA살림)
+- 데이터 출처: Codeit Customer Churn (DA살림)
+- 분석 기간: 2025 -2026
+- 사용 기술: Python, SQL
 
-분석 기간: 2025 -2026
-사용 기술: Python, SQL
+- 미래의 운지에게 넌 이미 이 글을 읽는 순간 기억이 날꺼야 넌 망했어 잘 기억해두렴...
 
-미래의 운지에게 넌 이미 이 글을 읽는 순간 기억이 날꺼야 넌 망했어 잘 기억해두렴...
-
-분석 목표: 이탈 고객의 특성과 이탈요인 파악.
-링크: https://github.com/gureumddang/customer_churn_analysis
+- 분석 목표: 이탈 고객의 특성과 이탈요인 파악.
+- 링크: https://github.com/gureumddang/customer_churn_analysis
 
